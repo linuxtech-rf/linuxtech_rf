@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/linuxtech_rf/static/css/main.abd64e84.css",
+    "main.js": "/linuxtech_rf/static/js/main.5a58bfcb.js",
+    "index.html": "/linuxtech_rf/index.html",
+    "main.abd64e84.css.map": "/linuxtech_rf/static/css/main.abd64e84.css.map",
+    "main.5a58bfcb.js.map": "/linuxtech_rf/static/js/main.5a58bfcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.5a58bfcb.js"
+  ]
+}
