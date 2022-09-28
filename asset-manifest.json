@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/linuxtech_rf/static/css/main.abd64e84.css",
-    "main.js": "/linuxtech_rf/static/js/main.5a58bfcb.js",
+    "main.css": "/linuxtech_rf/static/css/main.e1a3397a.css",
+    "main.js": "/linuxtech_rf/static/js/main.a1041cf6.js",
+    "static/media/HomeImg.jpg": "/linuxtech_rf/static/media/HomeImg.2f5db959cc8480413aed.jpg",
+    "static/media/fedora.png": "/linuxtech_rf/static/media/fedora.47c5ad7eee769788e467.png",
+    "static/media/RedHat.png": "/linuxtech_rf/static/media/RedHat.5239318426f44bff4320.png",
+    "static/media/ubuntu.png": "/linuxtech_rf/static/media/ubuntu.c3ae421f49700d77875c.png",
+    "static/media/Archlinux.png": "/linuxtech_rf/static/media/Archlinux.87503ec1fd1fbc4c345c.png",
+    "static/media/Mint.png": "/linuxtech_rf/static/media/Mint.de4fc0dcdba1ed980140.png",
+    "static/media/kali.png": "/linuxtech_rf/static/media/kali.1484dea02cb2c28379c8.png",
+    "static/media/insta_logo2.png": "/linuxtech_rf/static/media/insta_logo2.14a8eccd69d810bede04.png",
     "index.html": "/linuxtech_rf/index.html",
-    "main.abd64e84.css.map": "/linuxtech_rf/static/css/main.abd64e84.css.map",
-    "main.5a58bfcb.js.map": "/linuxtech_rf/static/js/main.5a58bfcb.js.map"
+    "main.e1a3397a.css.map": "/linuxtech_rf/static/css/main.e1a3397a.css.map",
+    "main.a1041cf6.js.map": "/linuxtech_rf/static/js/main.a1041cf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.5a58bfcb.js"
+    "static/css/main.e1a3397a.css",
+    "static/js/main.a1041cf6.js"
   ]
 }
